@@ -1,6 +1,6 @@
-# Bot que consulta os dados de temperatura de várias cidades do mundo.
+# Bot que consulta dados da temperatura atual nas cidades do mundo.
 
-#### Bot que retorna o valor atual do dolar em qualquer server do discord, feito utilizando apenas Python.
+#### Bot construido utilizando a linguagem Python que retorna a temperatura atual de qualquer cidade em qualquer server do discord.
 
 #### Algumas alteraçoes devem ser feitas para poder rodar em qualquer ambiente(adicionar o id do chat no codigo, renovar o token do bot etc.)
 
@@ -10,4 +10,4 @@
 
 Preview:
 
-![image](https://user-images.githubusercontent.com/61908237/194779562-1e83b069-59bb-43ac-a422-660404534b71.png)
+![bot message ](https://ik.imagekit.io/AlvesLuan/bot_message_2tzd0KBNO.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1665056682574")
