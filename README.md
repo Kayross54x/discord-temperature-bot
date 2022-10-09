@@ -2,7 +2,7 @@
 
 #### Bot construido utilizando a linguagem Python que retorna a temperatura atual de qualquer cidade em qualquer server do discord.
 
-#### Algumas alteraçoes devem ser feitas para poder rodar em qualquer ambiente(adicionar o id do chat no codigo, renovar o token do bot etc.)
+#### Algumas alteraçoes devem ser feitas para poder rodar em qualquer ambiente(adicionar o id do chat no codigo das funções periódicas, colocar o seu token da api do openWeatherMap e o token do bot em um arquivo .env, etc.)
 
 #### Deploy feito no Heroku.
 
