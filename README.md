@@ -1,4 +1,4 @@
-# Bot que consulta a cotação do Dólar.
+# Bot que consulta os dados de temperatura de várias cidades do mundo.
 
 #### Bot que retorna o valor atual do dolar em qualquer server do discord, feito utilizando apenas Python.
 
